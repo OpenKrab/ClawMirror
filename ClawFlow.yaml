@@ -1,0 +1,6 @@
+name: ClawMirror
+version: 1.0.0
+description: Auto-sync Claw conversations to PKM tools (Obsidian/Logseq).
+skills:
+  - skill: ClawMirror
+    path: SKILL.md

@@ -1,0 +1,19 @@
+enabled: true
+trigger: manual # Can be 'daily', 'session-end', or 'manual'
+
+pkms:
+  - type: obsidian
+    vault_path: ./mock_vault/obsidian
+    folder: Journal
+    template: obsidian.md
+
+  - type: logseq
+    vault_path: ./mock_vault/logseq
+    folder: journals
+    template: logseq.md
+
+include: 
+  - summary
+  - full_log
+  - highlights
+  - tasks
