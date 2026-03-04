@@ -1,4 +1,4 @@
-# ClawMirror
+# 🦞 ClawMirror
 
 ClawMirror is a skill that mirrors (auto-syncs) your conversations with Claw directly into popular PKM tools like Obsidian, Logseq, or Anytype without manual copy-pasting.
 
